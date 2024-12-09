@@ -1,1 +1,1 @@
-[]
+[{"id":2,"name":"cdt","createdAt":"","color":"#1000f5","desc":"","isInner":false},{"id":1,"name":"rym","createdAt":"","color":"#00a3f5","desc":"","isInner":false},{"id":-1,"name":"Chinese","color":"#2db7f5","createdAt":"","desc":"The system is built-in","isInner":true},{"id":-2,"name":"English","color":"#f50","createdAt":"","desc":"The system is built-in","isInner":true},{"id":-3,"name":"GitHub","color":"#108ee9","createdAt":"","desc":"The system is built-in","isInner":true}]
